@@ -1,3 +1,6 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/GiulianoPoeta99/synclife_app.git
+[submodule "api"]
+	path = api
+	url = https://github.com/GiulianoPoeta99/synclife_api.git
