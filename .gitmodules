@@ -2,7 +2,7 @@
 	path = app
 	url = https://github.com/GiulianoPoeta99/synclife_app.git
 [submodule "api"]
-	path = api
+	path = backend
 	url = https://github.com/GiulianoPoeta99/synclife_api.git
 [submodule "database"]
 	path = database
